@@ -12,3 +12,10 @@ print(cursor.fetchall())
 cursor.execute("select * from bank_details where age> 35 limit 10")
 for i in cursor.fetchall():
     print(i)
+
+
+print("helo")
+print("helo")
+print("helo")
+print("helo")
+print("helo")
